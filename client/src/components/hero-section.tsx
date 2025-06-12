@@ -44,7 +44,7 @@ export default function HeroSection() {
             <img
               src={tejasPhoto}
               alt="Tejas Jiddewar"
-              className="w-32 h-32 rounded-full mx-auto border-4 border-primary shadow-2xl object-cover floating-animation"
+              className="w-40 h-40 rounded-full mx-auto border-4 border-primary shadow-2xl object-cover floating-animation"
             />
           </motion.div>
 
