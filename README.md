@@ -1,2 +1,2 @@
-### Demo Portfolio|Typescript
+### Demo Portfolio using Typescript
 
